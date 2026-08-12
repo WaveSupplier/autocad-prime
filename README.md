@@ -36,4 +36,4 @@ All-in-one **AutoCAD Prime** solution featuring cutting-edge 3D modeling, visual
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.    
+> This repository is provided for educational and utility purposes only. Use at your own discretion.     
